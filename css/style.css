@@ -30,7 +30,7 @@ header{
 section{
     color: black;
     padding: 10px;
-    background-image: url(../images/people.jpg);
+    background-image: url(../assets/people.jpg);
     background-size: cover;
     overflow: hidden;
 }
@@ -57,7 +57,7 @@ select{
     -moz-appearance: none;
     appearance: none;
     -webkit-appearance: none;
-    background-image: url(../images/arrow.jpg);
+    background-image: url(../assets/arrow.jpg);
     background-repeat: no-repeat;
     background-position-x: calc(100% - 10px);
     background-position-y: center;
